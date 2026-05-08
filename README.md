@@ -35,7 +35,7 @@ RecUnited is community of developers and caring fans thats goal is to revive rec
 
 - **How can I download it?**
 
-RecUnited is currently in the development phase and is not yet available for download. We're working hard to bring you something great — stay tuned for our planned release in late May 2025!
+RecUnited is currently in the development phase and is not yet available for download. We're working hard to bring you something great — stay tuned for our planned release in late May 2026!
 
 - **Is RecUnited Legal?**
 
