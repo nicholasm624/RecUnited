@@ -59,7 +59,7 @@ We plan to use a client pacher which you will be able to use to patch your PRE D
 
 - **How can i report a bug?**
 
-Go to the #🤖│bot-commands channel [on our discord]([(https://discord.gg/JW5jjkjCuj)] and type /bug, then fill out the quick form.
+Go to the #🤖│bot-commands channel [on our discord] (https://discord.gg/JW5jjkjCuj) and type /bug, then fill out the quick form.
 
 - **Can I create custom rooms?**
 
@@ -67,9 +67,9 @@ We plan to implment the Maker Pen into RecUnited so you can make with your frien
 
 - **How can i help out?**
 
-Join the [Discord](https://discord.gg/zZQrYBmjwv) , contribute to our GitHub repo, or help test out the network code when we do live lobby tests!
+Join the [Discord] (https://discord.gg/JW5jjkjCuj) , contribute to our GitHub repo, or help test out the network code when we do live lobby tests!
 
-*Have a question that isn't answered here? Feel free to [ask on our discord](https://discord.gg/zZQrYBmjwv) and we'll get back to you.*
+*Have a question that isn't answered here? Feel free to [ask on our discord] (https://discord.gg/JW5jjkjCuj) and we'll get back to you.*
 
 ---
 
