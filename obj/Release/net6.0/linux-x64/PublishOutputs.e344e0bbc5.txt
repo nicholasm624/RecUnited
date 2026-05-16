@@ -1,0 +1,3 @@
+/tmp/recroom-deploy/appsettings.json
+/tmp/recroom-deploy/RecRoomServer.pdb
+/tmp/recroom-deploy/RecRoomServer

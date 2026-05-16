@@ -1,0 +1,3 @@
+/Users/qaidin/Downloads/untitled folder 45/RecRoomPreservation/RecRoomServer/bin/Release/net6.0/linux-x64/publish/appsettings.json
+/Users/qaidin/Downloads/untitled folder 45/RecRoomPreservation/RecRoomServer/bin/Release/net6.0/linux-x64/publish/RecRoomServer.pdb
+/Users/qaidin/Downloads/untitled folder 45/RecRoomPreservation/RecRoomServer/bin/Release/net6.0/linux-x64/publish/RecRoomServer
