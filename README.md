@@ -59,7 +59,7 @@ We plan to use a client pacher which you will be able to use to patch your PRE D
 
 - **How can i report a bug?**
 
-Go to the #🤖│bot-commands channel [on our discord](https://discord.gg/zZQrYBmjwv) and type /bug, then fill out the quick form.
+Go to the #🤖│bot-commands channel [on our discord]([(https://discord.gg/JW5jjkjCuj)] and type /bug, then fill out the quick form.
 
 - **Can I create custom rooms?**
 
